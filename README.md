@@ -76,7 +76,7 @@ Using natural language processing, predicting which relevant department an incom
 
 
 
-## Python Based Projects
+## Python - Based Projects
 
 
 
@@ -99,7 +99,7 @@ Using natural language processing, predicting which relevant department an incom
 
 
 
-## R Based Projects
+## R - Based Projects
 
 
 1. Alzheimer’s Disease Analysis - ["Working Title"](https://github.com/CarlosCano1/)
