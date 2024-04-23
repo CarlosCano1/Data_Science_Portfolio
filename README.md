@@ -2,7 +2,7 @@
 ___
 
 ## Data Prediction Analysis
-Patient Diabetic Outcome based on Variable Analysis - [Diabetic Analysis](https://github.com/CarlosCano1/DSC-630)
+Patient Diabetic Outcome based on Variable Analysis - [Diabetes Analysis](https://github.com/CarlosCano1/Diabetes_Analysis/)
 
 This Data Anaylsis was preformed by using Logistic Regression & KNN Classification to determine the probability of diabetes within the clinical setting based on health factors and indications within the medical setting. With the implentation of hyperparameter tuning an efficacy of 96.03% accuracy.
 
