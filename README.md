@@ -1,15 +1,21 @@
 # _Data Science Portfolio_
+
 ___
 
-## Data Prediction Analysis
+
+## **Data Prediction Analysis**
+
 Patient Diabetic Outcome based on Variable Analysis - [Diabetes Analysis](https://github.com/CarlosCano1/Diabetes_Analysis/)
 
-This Data Anaylsis was preformed by using Logistic Regression & KNN Classification to determine the probability of diabetes within the clinical setting based on health factors and indications within the medical setting. With the implentation of hyperparameter tuning an efficacy of 96.03% accuracy.
-
+This Data Anaylsis was preformed using Logistic Regression & KNN Classification to determine the probability of diabetes within the clinical setting based on health factors and indications within the medical setting. With the implentation of hyperparameter tuning an efficacy of 96.03% accuracy was achieved in the predictability using these tools.
 
 * Data Source: CDC BRFSS Survey Data and Documentation
+
+
 ##
 ##
+
+
 
 
 
@@ -17,7 +23,8 @@ This Data Anaylsis was preformed by using Logistic Regression & KNN Classificati
 
 Spotify Database Analysis - ["Working Title"](https://github.com/CarlosCano1/)
 
-Obtain data from an API, flat file, and webpage. Combine the three data sources in an SQLite database, and conduct graphical analysis to determine what aspects of a song (bpm, key, cadence, etc) make a song reach the top charts.
+
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
@@ -25,24 +32,45 @@ Obtain data from an API, flat file, and webpage. Combine the three data sources 
 ##  
 
 
-## Graphical Analysis
-Exam Performance Analysis - ["Working Title"](https://github.com/CarlosCano1/)
 
-Use exam performance dataset to understand why certain students were performing better than others, and give suggestions as to how to get more students to perform better.
+
+
+## **Graphical Analysis**
+
+
+1. Python - Based Graphical Analysis - [Histogram + Box Plot + Bullet Charts](https://github.com/CarlosCano1/Python-Graphical_Analysis-1)
+
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
+
+
+<br />
+<br />
+<br />
+
+
+2. Python - Based Graphical Analysis - [Heat Map + Spatial + Lollipop Charts](https://github.com/CarlosCano1/Python-Graphical_Analysis-2)
+
+XYZ_123(**Insert Explanation**):
+
+
+* Data Source:
+  
 ##
 ## 
 
 
 
 
-## Sentiment Analysis
 
-1. 2020 Election Prediction & Sentiment Analysis - ["Working Title"](https://github.com/CarlosCano1/)
+## **Sentiment Analysis**
 
-Use natural language processing (NLP) to conduct sentiment analysis on the tweets coming from different US states in an attempt to predict which presidential candidate each state will vote for. These tweets were gathered from the Twitter API from beginning of 2020 to the day before election day.
+1. Election Prediction & Sentiment Analysis - ["Working Title"](https://github.com/CarlosCano1/)
+
+
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
@@ -55,7 +83,8 @@ Use natural language processing (NLP) to conduct sentiment analysis on the tweet
 
 2. NLP Bag of Words - ["Working Title"](https://github.com/CarlosCano1/)
 
-Practice using a Bag of Words and NLTK's sentiment analyzer tool to determine the polarity of movie reviews.
+
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
@@ -67,7 +96,8 @@ Practice using a Bag of Words and NLTK's sentiment analyzer tool to determine th
 
 3. Customer Support Ticket Analysis - ["Working Title"](https://github.com/CarlosCano1/)
 
-Using natural language processing, predicting which relevant department an incoming ticket must be sent to in order to reduce time for ticket to be resolved, therefore increasing customer satisfaction.
+
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
@@ -76,25 +106,32 @@ Using natural language processing, predicting which relevant department an incom
 
 
 
-## Python - Based Projects
 
 
+## **Python - Based Projects**
 
-1. Hyperparameter tuning ["Working Title"](https://github.com/CarlosCano1)
+1. Hyperparameter Tuning ["Working Title"](https://github.com/CarlosCano1)
+
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
-##
-## 
+
+
+<br />
+<br />
+<br />
 
 
 2. MNIST-CNN-model ["Working Title"](https://github.com/CarlosCano1)
 
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
 ##
 ## 
+
 
 
 
@@ -104,12 +141,10 @@ Using natural language processing, predicting which relevant department an incom
 
 1. Alzheimer’s Disease Analysis - ["Working Title"](https://github.com/CarlosCano1/)
 
-Predicts which patients have Alzheimer's based on various health factors.
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
-##
-## 
 
 
 <br />
@@ -119,12 +154,10 @@ Predicts which patients have Alzheimer's based on various health factors.
 
 2. XYZ_123 - ["Working Title"](https://github.com/CarlosCano1/)
 
-Things about stuff and things.
+XYZ_123(**Insert Explanation**):
 
 
 * Data Source:
-##
-## 
 
 
 <br />
@@ -134,8 +167,8 @@ Things about stuff and things.
 
 3. XYZ_123 - ["Working Title"](https://github.com/CarlosCano1/)
 
-More things about stuff and other things.
+XYZ_123(**Insert Explanation**):
 
-* Data Sourced From:
+* Data Source:
 ##
 ## 
