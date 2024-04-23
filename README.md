@@ -7,7 +7,7 @@ Patient Diabetic Outcome based on Variable Analysis - [Diabetic Analysis](https:
 
 This Data Anaylsis was preformed by using Logistic Regression & KNN Classification to determine the probability of diabetes within the clinical setting based on health factors and indications within the medical setting. With the implentation of hyperparameter tuning an efficacy of 96.03% accuracy.
 
-Data Sourced from the CDC: BRFSS Survey Data and Documentation
+* Data Sourced from the CDC: BRFSS Survey Data and Documentation
 
 
 ## **Database Work**
