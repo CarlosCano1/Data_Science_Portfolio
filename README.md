@@ -19,7 +19,7 @@ This Data Anaylsis was preformed using Logistic Regression & KNN Classification 
 
 
 
-## **Database Workflows**
+## **Database Workflow**
 
 Spotify Database Analysis - ["Working Title"](https://github.com/CarlosCano1/)
 
