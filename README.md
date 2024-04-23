@@ -2,6 +2,14 @@
 
 ##
 
+## Data Prediction Analysis
+Patient Diabetic Outcome based on Variable Analysis - [Diabetic Analysis](https://github.com/CarlosCano1/DSC-630)
+
+This Data Anaylsis was preformed by using Logistic Regression & KNN Classification to determine the probability of diabetes within the clinical setting based on health factors and indications within the medical setting. With the implentation of hyperparameter tuning an efficacy of 96.03% accuracy.
+
+Data Sourced from the CDC: BRFSS Survey Data and Documentation
+
+
 ## **Database Work**
 Spotify Database Analysis available [Github](https://github.com/ahamedaninia/spotify-analysis)
 
@@ -23,11 +31,7 @@ Customer Support Ticket Analysis - [Github](https://github.com/ahamedaninia/cust
 [Customer Support Ticket Analysis](https://github.com/ahamedaninia/customer-support-ticket): Using natural language processing, predicting which relevant department an incoming ticket must be sent to in order to reduce time for ticket to be resolved, therefore increasing customer satisfaction.
 
 
-## Prediction Analysis
-Diabetes prediction analysis - [Github](https://github.com/ahamedaninia/diabetes-disease-prediction/tree/main)
 
-After cleaning the data, we used a KNN classifier, obtained a 96.11% accuracy, and improved with hyperparameter tuning
-[Diabetes prediction analysis](https://github.com/ahamedaninia/diabetes-disease-prediction/tree/main): Predicting which patients may have diabetes based on various health factors. Increased accuracy via hyperparamter tuning, obtained a 96% accuracy score.
 
 ## Other Projects in Python
 Hyperparameter tuning [Github](https://github.com/ahamedaninia/hyperparameter-tuning)
