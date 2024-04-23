@@ -21,7 +21,7 @@ This Data Anaylsis was preformed using Logistic Regression & KNN Classification 
 
 ## **Database Workflow**
 
-Spotify Database Analysis - ["Working Title"](https://github.com/CarlosCano1/)
+Spotify Database Analysis - ["Working Title"](https://github.com/CarlosCano1/Database_Workflow)
 
 
 XYZ_123(**Insert Explanation**):
@@ -67,7 +67,7 @@ XYZ_123(**Insert Explanation**):
 
 ## **Sentiment Analysis**
 
-1. Election Prediction & Sentiment Analysis - ["Working Title"](https://github.com/CarlosCano1/)
+1. Election Prediction & Sentiment Analysis - ["Working Title"](https://github.com/CarlosCano1/Sentiment_Analysis-1)
 
 
 XYZ_123(**Insert Explanation**):
@@ -81,7 +81,7 @@ XYZ_123(**Insert Explanation**):
 <br />
 
 
-2. NLP Bag of Words - ["Working Title"](https://github.com/CarlosCano1/)
+2. NLP Bag of Words - ["Working Title"](https://github.com/CarlosCano1/Sentiment_Analysis-2)
 
 
 XYZ_123(**Insert Explanation**):
@@ -94,7 +94,7 @@ XYZ_123(**Insert Explanation**):
 <br />
 
 
-3. Customer Support Ticket Analysis - ["Working Title"](https://github.com/CarlosCano1/)
+3. Customer Support Ticket Analysis - ["Working Title"](https://github.com/CarlosCano1/Sentiment_Analysis-3)
 
 
 XYZ_123(**Insert Explanation**):
