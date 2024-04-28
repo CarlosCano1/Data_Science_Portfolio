@@ -108,64 +108,35 @@ XYZ_123(**Insert Explanation**):
 
 
 
-## **Python - Based Projects**
-
-1. Hyperparameter Tuning ["Working Title"](https://github.com/CarlosCano1)
-
-XYZ_123(**Insert Explanation**):
+## **DSC 680 - Projects**
 
 
-* Data Source:
-
-
-<br />
-<br />
-<br />
-
-
-2. MNIST-CNN-model ["Working Title"](https://github.com/CarlosCano1)
+1. Cardiovascular Disease Factor Analysis - ["Cardiovascular Disease Factor Analysis"](https://github.com/CarlosCano1/)
 
 XYZ_123(**Insert Explanation**):
 
 
-* Data Source:
-##
-## 
+* Data Source: Mendeley Data
 
 
+<br />
+<br />
+<br />
 
 
-
-## R - Based Projects
-
-
-1. Alzheimer’s Disease Analysis - ["Working Title"](https://github.com/CarlosCano1/)
+2. New York Home Prices Analysis - ["New York Home Prices Analysis"](https://github.com/CarlosCano1/)
 
 XYZ_123(**Insert Explanation**):
 
 
-* Data Source:
-
-
-<br />
-<br />
-<br />
-
-
-2. XYZ_123 - ["Working Title"](https://github.com/CarlosCano1/)
-
-XYZ_123(**Insert Explanation**):
-
-
-* Data Source:
-
+* Data Source: Kaggle
 
 <br />
 <br />
 <br />
 
 
-3. XYZ_123 - ["Working Title"](https://github.com/CarlosCano1/)
+3. Project 3 - ["Working Title"](https://github.com/CarlosCano1/)
 
 XYZ_123(**Insert Explanation**):
 
