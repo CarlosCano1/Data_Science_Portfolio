@@ -99,7 +99,7 @@ Heatmap, Spatial Map and Lollipop Chart utilization for Data Science for real wo
 ## **Sentiment Analysis**
 
 
-2. NLP Bag of Words - ["Working Title"](https://github.com/CarlosCano1/Sentiment_Analysis-1)
+NLP Bag of Words - ["Working Title"](https://github.com/CarlosCano1/Bag_of_Words)
 
 
 XYZ_123(**Insert Explanation**):
