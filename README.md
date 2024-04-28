@@ -24,10 +24,12 @@ This Data Anaylsis was preformed using Logistic Regression & KNN Classification 
 Los Angeles Crime Based EDA - ["Crime EDA"](https://github.com/CarlosCano1/Crime_EDA)
 
 
-XYZ_123(**Insert Explanation**):
+Los Angeles Crime Statistics Analysis was performed using both Linear Regression and KNN Classification to detect the variations of instances of crimes within the metropolitan of Los Angeles, California. The refined model was able to achieve a R-Squared of 99.9%.
 
 
-* Data Source:
+* Data Source: ["LA City Crime Data"](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/data_preview)
+
+
 ##
 ##  
 
@@ -40,10 +42,10 @@ XYZ_123(**Insert Explanation**):
 
 1. Python - Based Graphical Analysis - [Histogram + Box Plot + Bullet Charts](https://github.com/CarlosCano1/Python-Graphical_Analysis-1)
 
-XYZ_123(**Insert Explanation**):
+Histogram, Box Plot and Bullet Chart utilization of charts for Data Science for real world practical applications. 
 
 
-* Data Source:
+* Data Source: Various Sampled Data
 
 
 <br />
@@ -53,10 +55,9 @@ XYZ_123(**Insert Explanation**):
 
 2. Python - Based Graphical Analysis - [Heat Map + Spatial + Lollipop Charts](https://github.com/CarlosCano1/Python-Graphical_Analysis-2)
 
-XYZ_123(**Insert Explanation**):
+Heatmap, Spatial Map and Lollipop Chart utilization for Data Science for real world practical applications. 
 
-
-* Data Source:
+* Data Source: Various Sampled Data
   
 ##
 ## 
