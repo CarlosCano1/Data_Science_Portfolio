@@ -97,13 +97,12 @@ XYZ_123(**Insert Explanation**):
 ## **Exploratory Data Analysis**
 
 
-World Happiness EDA - ["World Happiness Report"](https://github.com/CarlosCano1/2023-World_Happiness_Report))
+World Happiness EDA - ["WHR - EDA"](https://github.com/CarlosCano1/2023-World_Happiness_Report))
 
 
-XYZ_123(**Insert Explanation**):
+World Happiness Report, a detailed review of the 2023 World Happiness Report which showcases various factors that leads to self-reported metrics of happiness across the globe.
 
-
-* Data Source:
+* Data Source: ["World Happiness Report"](https://worldhappiness.report/data/)
 ##
 ## 
 
@@ -116,10 +115,10 @@ XYZ_123(**Insert Explanation**):
 
 1. Cardiovascular Disease Factor Analysis - ["Cardiovascular Disease Factor Analysis"](https://github.com/CarlosCano1/)
 
-XYZ_123(**Insert Explanation**):
+Cardio Disease predictability based on health factors is the focus of this analysis, through the utilization of Multivariable Regression Analysis the healthcare factors are analyzed to better understand the likelihood of developing cardiovascular disease.
 
 
-* Data Source: Mendeley Data
+* Data Source: ["Mendeley Data"](https://data.mendeley.com/datasets/dzz48mvjht/1)
 
 
 <br />
@@ -129,8 +128,7 @@ XYZ_123(**Insert Explanation**):
 
 2. New York Home Prices Analysis - ["New York Home Prices Analysis"](https://github.com/CarlosCano1/)
 
-XYZ_123(**Insert Explanation**):
-
+Housing Data Analysis, this EDA focuses on market price analysis within New York with a goal on price prediction based on various factors.
 
 * Data Source: Kaggle
 
@@ -141,7 +139,8 @@ XYZ_123(**Insert Explanation**):
 
 3. Project 3 - ["Working Title"](https://github.com/CarlosCano1/)
 
-XYZ_123(**Insert Explanation**):
+In progress...
+
 
 * Data Source:
 ##
