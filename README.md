@@ -19,9 +19,9 @@ This Data Anaylsis was preformed using Logistic Regression & KNN Classification 
 
 
 
-## **Database Workflow**
+## **Exploratory Data Analysis**
 
-Spotify Database Analysis - ["Working Title"](https://github.com/CarlosCano1/Database_Workflow)
+Los Angeles Crime Based EDA - ["Crime EDA"](https://github.com/CarlosCano1/Crime_EDA)
 
 
 XYZ_123(**Insert Explanation**):
