@@ -55,7 +55,7 @@ World Happiness Report, a detailed review of the 2023 World Happiness Report whi
 
 3. Credit Report EDA - ["Credit Report - EDA"](https://github.com/CarlosCano1/Credit_Report_EDA)
 
-XYZ_123
+A brief overview and relationship among individuals and the credit scores.
 
 * Data Source: ["India Based Credit Profile"](https://www.kaggle.com/datasets/yashkmd/credit-profile-two-wheeler-loan-dataset)
 
