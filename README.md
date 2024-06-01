@@ -141,8 +141,10 @@ Housing Data Analysis, this EDA focuses on market price analysis within New York
 
 3. Project 3 - ["Fraud Based Detection and Prediction"](https://github.com/CarlosCano1/Fraud-Based-Detection-and-Prediction)
 
-In progress...
-
+This EDA will focus on Random Forest Classifier for its use of supervised machine learning
+through the use of a targeted variable to identify and predict instances of fraud within the model. A linear
+relationship may be explored within the model as a means of standardizing the efficacy of the model at
+hand.
 
 * Data Source: ["Data World"]((https://data.world/raghu543/credit-card-fraud-data))
 ##
