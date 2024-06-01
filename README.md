@@ -115,7 +115,7 @@ XYZ_123(**Insert Explanation**):
 ## **DSC 680 - Projects**
 
 
-1. Cardiovascular Disease Factor Analysis - ["Cardiovascular Disease Factor Analysis"](https://github.com/CarlosCano1/)
+1. Cardiovascular Disease Factor Analysis - ["Cardiovascular Disease Factor Analysis"](https://github.com/CarlosCano1/Cardiovascular-Disease-Factor-Analysis)
 
 Cardio Disease predictability based on health factors is the focus of this analysis, through the utilization of Multivariable Regression Analysis the healthcare factors are analyzed to better understand the likelihood of developing cardiovascular disease.
 
@@ -128,7 +128,7 @@ Cardio Disease predictability based on health factors is the focus of this analy
 <br />
 
 
-2. New York Home Prices Analysis - ["New York Home Prices Analysis"](https://github.com/CarlosCano1/)
+2. New York Home Prices Analysis - ["New York Home Prices Analysis"](https://github.com/CarlosCano1/New-York-Home-Price-Analysis)
 
 Housing Data Analysis, this EDA focuses on market price analysis within New York with a goal on price prediction based on various factors.
 
