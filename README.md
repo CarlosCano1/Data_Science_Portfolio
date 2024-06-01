@@ -139,11 +139,11 @@ Housing Data Analysis, this EDA focuses on market price analysis within New York
 <br />
 
 
-3. Project 3 - ["Working Title"](https://github.com/CarlosCano1/)
+3. Project 3 - ["Fraud Based Detection and Prediction"](https://github.com/CarlosCano1/Fraud-Based-Detection-and-Prediction)
 
 In progress...
 
 
-* Data Source:
+* Data Source: ["Data World"]((https://data.world/raghu543/credit-card-fraud-data))
 ##
 ## 
