@@ -146,6 +146,6 @@ through the use of a targeted variable to identify and predict instances of frau
 relationship may be explored within the model as a means of standardizing the efficacy of the model at
 hand.
 
-* Data Source: ["Data World"]((https://data.world/raghu543/credit-card-fraud-data))
+* Data Source: ["Data World"](https://data.world/raghu543/credit-card-fraud-data)
 ##
 ## 
